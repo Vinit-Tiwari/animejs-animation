@@ -37,7 +37,6 @@
 		grid-template-rows: repeat(5, 1fr);
 		grid-template-columns: repeat(20, 1fr);
 		color: aliceblue;
-		gap: 1rem;
 		overflow: hidden;
 	}
 	.sample {
@@ -45,6 +44,7 @@
 		justify-content: center;
 		align-items: center;
 		width: 3rem;
+		border-radius: 50%;
 		height: 3rem;
 		background-color: brown;
 	}
